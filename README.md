@@ -99,10 +99,10 @@ This automated system delivers:
 ### Detailed Setup Guide
 
 See individual flow documentation:
-- [01_Dataverse_Table_Schema.md](./01_Dataverse_Table_Schema.md)
-- [02_Flow1_Appointment_Scheduler.md](./02_Flow1_Appointment_Scheduler.md)
-- [03_Flow2_Reminder_System.md](./03_Flow2_Reminder_System.md)
-- [04_Flow3_NoShow_Tracker.md](./04_Flow3_NoShow_Tracker.md)
+- [01_Dataverse_Table_Schema.md](./docs/01_Dataverse_Table_Schema.md)
+- [02_Flow1_Appointment_Scheduler.md](./docs/02_Flow1_Appointment_Scheduler.md)
+- [03_Flow2_Reminder_System.md](./docs/03_Flow2_Reminder_System.md)
+- [04_Flow3_NoShow_Tracker.md](./docs/04_Flow3_NoShow_Tracker.md)
 
 ---
 
