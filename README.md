@@ -328,7 +328,7 @@ Biomedical Engineer | Healthcare Technology Consultant
 - 📜 Certified: PL-200 Microsoft Power Platform Functional Consultant
 - 🌐 Healthcare IT training: HL7, FHIR, Healthcare API
 
-**LinkedIn**: [Alexandra Irimia](www.linkedin.com/in/alexandra-irimia-a88860150)  
+**LinkedIn**: [Alexandra Irimia](https://www.linkedin.com/in/alexandra-irimia-a88860150)
 **Email**: irimia.alexandra01@gmail.com  
 **Location**: Pavia, Italy
 
